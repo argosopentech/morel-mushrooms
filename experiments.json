@@ -1,23 +1,138 @@
 [
     {
-        "id": 0,
+        "experiment_id": 0,
         "actions": [
             {
-                "__time__": 1663091738,
-                "description": "Plant Apple seeds"
+                "time": 1663091738,
+                "description": "Plant Apple seeds in potting soil in a clay pot"
             },
             {
-                "__time__": 1664142938,
-                "description": "Place in freezer"
+                "time": 1664142938,
+                "description": "Refrigerate at -9\u2103"
+            }
+        ],
+        "observations": [
+            {
+                "time": 1664230388,
+                "description": "No visible sprouts above the soil surface"
             }
         ]
     },
     {
-        "id": 1,
+        "experiment_id": 1,
         "actions": [
             {
-                "__time__": 1663091738,
-                "description": "Plant Apple seeds"
+                "time": 1663091738,
+                "description": "Plant Apple seeds in potting soil in a clay pot"
+            }
+        ]
+    },
+    {
+        "experiment_id": 2,
+        "actions": [
+            {
+                "time": 1664230388,
+                "description": "Plant Dwarf Bonsai Apple seeds in a damp paper towel"
+            },
+            {
+                "time": 1664230388,
+                "description": "Refrigerate at 7\u2103"
+            }
+        ]
+    },
+    {
+        "experiment_id": 3,
+        "actions": [
+            {
+                "time": 1664230388,
+                "description": "Plant Pink Lady Fuji Apple seeds in a damp paper towel"
+            },
+            {
+                "time": 1664230388,
+                "description": "Refrigerate at 7\u2103"
+            }
+        ]
+    },
+    {
+        "experiment_id": 4,
+        "actions": [
+            {
+                "time": 1664230388,
+                "description": "Plant Common Apple seeds in a damp paper towel"
+            },
+            {
+                "time": 1664230388,
+                "description": "Refrigerate at 7\u2103"
+            }
+        ]
+    },
+    {
+        "experiment_id": 5,
+        "actions": [
+            {
+                "time": 1664230388,
+                "description": "Plant Antonovka Apple seeds in a damp paper towel"
+            },
+            {
+                "time": 1664230388,
+                "description": "Refrigerate at 7\u2103"
+            }
+        ]
+    },
+    {
+        "experiment_id": 6,
+        "actions": [
+            {
+                "time": 1664230388,
+                "description": "Plant Apple seeds in a damp paper towel"
+            },
+            {
+                "time": 1664230388,
+                "description": "Refrigerate at 7\u2103"
+            }
+        ]
+    },
+    {
+        "experiment_id": 7,
+        "actions": [
+            {
+                "time": 1664230388,
+                "description": "Plant Apple seeds in a damp paper towel"
+            },
+            {
+                "time": 1664230388,
+                "description": "Refrigerate at 7\u2103"
+            }
+        ]
+    },
+    {
+        "experiment_id": 8,
+        "actions": [
+            {
+                "time": 1664230388,
+                "description": "Plant Sugar Maple seeds in a damp paper towel"
+            },
+            {
+                "time": 1664230388,
+                "description": "Refrigerate at 7\u2103"
+            }
+        ]
+    },
+    {
+        "experiment_id": 9,
+        "actions": [
+            {
+                "time": 1664230388,
+                "description": "Plant Antonovka + other Apple seeds in potting soil in a clay pot"
+            }
+        ]
+    },
+    {
+        "experiment_id": 10,
+        "actions": [
+            {
+                "time": 1664230388,
+                "description": "Plant Antonovka + other Apple seeds in potting soil in a clay pot"
             }
         ]
     }
