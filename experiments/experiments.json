@@ -252,6 +252,12 @@
                 "time": 1665061213,
                 "description": "Add 2 cups peat"
             }
+        ],
+        "observations":[
+            {
+                "time": 1666050322,
+                "description": "Small amounts of white mycelium visable, especially on the woodchips"
+            }
         ]
     },
     {
@@ -277,6 +283,12 @@
                         "experiment_id": 16
                     }
                 ]
+            }
+        ],
+        "observations":[
+            {
+                "time": 1666050322,
+                "description": "Small amounts of white mycelium visable, especially on the woodchips"
             }
         ]
     },
@@ -312,6 +324,12 @@
                     }
                 ]
             }
+        ],
+        "observations":[
+            {
+                "time": 1666050322,
+                "description": "Small amounts of white mycelium visable, especially on the woodchips"
+            }
         ]
     },
     {
@@ -345,6 +363,12 @@
                         "experiment_id": 16
                     }
                 ]
+            }
+        ],
+        "observations":[
+            {
+                "time": 1666050322,
+                "description": "Small amounts of white mycelium visable, especially on the woodchips"
             }
         ]
     }
