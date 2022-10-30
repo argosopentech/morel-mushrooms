@@ -229,6 +229,20 @@
                 "time": 1666049536,
                 "description": "Plant live Antonovka Apple tree"
             }
+        ],
+        "observations": [
+            {
+                "time": 1667160433,
+                "description": "No sprouts visible"
+            },
+            {
+                "time": 1667160433,
+                "description": "The Antonovka Apple tree has two small green leaves"
+            },
+            {
+                "time": 1667160433,
+                "description": "The leaves on the Valley Oak tree are turning brown"
+            }
         ]
     },
     {
