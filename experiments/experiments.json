@@ -181,6 +181,16 @@
             {
                 "time": 1664281361,
                 "description": "Plant Jasmine Rice in potting soil"
+            },
+            {
+                "time": 1667159900,
+                "description": "Discarded"
+            }
+        ],
+        "observations": [
+            {
+                "time": 1667159900,
+                "description": "Visibly moldy"
             }
         ]
     },
@@ -202,6 +212,10 @@
             {
                 "time": 1664733433,
                 "description": "Plant Tomato seeds"
+            },
+            {
+                "time": 1664733433,
+                "description": "Plant Basil seeds"
             },
             {
                 "time": 1664733433,
@@ -709,6 +723,23 @@
             {
                 "time": 1666914595,
                 "description": "Refrigerate at 7\u2103"
+            }
+        ]
+    },
+    {
+        "experiment_id": 40,
+        "actions": [
+            {
+                "time": 1667159900,
+                "description": "Fill Plastic tub with potting soil and compost"
+            },
+            {
+                "time": 1667159900,
+                "description": "Plant Oat seeds"
+            },
+            {
+                "time": 1667159900,
+                "description": "Plant White Dutch Clover seeds"
             }
         ]
     }
