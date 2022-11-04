@@ -260,6 +260,10 @@
             {
                 "time": 1667160433,
                 "description": "The leaves on the Valley Oak tree are turning brown"
+            },
+            {
+                "time": 1667603642,
+                "description": "One Cotton plant has grown a new leaf  and looks healthy; the other has shrivelled up and died."
             }
         ]
     },
@@ -772,6 +776,12 @@
             {
                 "time": 1667159900,
                 "description": "Plant White Dutch Clover seeds"
+            }
+        ],
+        "observations": [
+            {
+                "time": 1667603642,
+                "description": "Small green sprouts visible"
             }
         ]
     }
