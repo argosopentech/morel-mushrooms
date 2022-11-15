@@ -306,7 +306,7 @@
         "observations": [
             {
                 "time": 1666050322,
-                "description": "Small amounts of white mycelium visable, especially on the woodchips"
+                "description": "Small amounts of white mycelium visible, especially on the woodchips"
             }
         ]
     },
@@ -338,7 +338,7 @@
         "observations": [
             {
                 "time": 1666050322,
-                "description": "Small amounts of white mycelium visable, especially on the woodchips"
+                "description": "Small amounts of white mycelium visible, especially on the woodchips"
             }
         ]
     },
@@ -373,12 +373,21 @@
                         "experiment_id": 16
                     }
                 ]
+            },
+            {
+                "time": 1668477586,
+                "description": "Merged",
+                "links": [
+                    {
+                        "experiment_id": 40
+                    }
+                ]
             }
         ],
         "observations": [
             {
                 "time": 1666050322,
-                "description": "Small amounts of white mycelium visable, especially on the woodchips"
+                "description": "Small amounts of white mycelium visible, especially on the woodchips"
             }
         ]
     },
@@ -418,7 +427,11 @@
         "observations": [
             {
                 "time": 1666050322,
-                "description": "Small amounts of white mycelium visable, especially on the woodchips"
+                "description": "Small amounts of white mycelium visible, especially on the woodchips"
+            },
+            {
+                "time": 1668477806,
+                "description": "Large amounts of white and green mycelium visible, especially on the woodchips"
             }
         ]
     },
@@ -776,12 +789,29 @@
             {
                 "time": 1667159900,
                 "description": "Plant White Dutch Clover seeds"
+            },
+            {
+                "time": 1668477586,
+                "description": "Add woodchip mulch innoculated with Morel fungus",
+                "links": [
+                    {
+                        "experiment_id": 18
+                    }
+                ]
+            },
+            {
+                "time": 1668477806,
+                "description": "Plant two Anatovka Apple seedlings, both 8cm tall without any leaves"
             }
         ],
         "observations": [
             {
                 "time": 1667603642,
                 "description": "Small green sprouts visible"
+            },
+            {
+                "time": 1668477806,
+                "description": "12cm Oat sprouts all over bin"
             }
         ]
     }
