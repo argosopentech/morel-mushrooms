@@ -142,6 +142,10 @@
             {
                 "time": 1664281361,
                 "description": "Plant Gold Potatoes in damp paper towels"
+            },
+            {
+                "time": 1668875337,
+                "description": "Add potting soil"
             }
         ],
         "observations": [
@@ -802,6 +806,14 @@
             {
                 "time": 1668477806,
                 "description": "Plant two Anatovka Apple seedlings, both 8cm tall without any leaves"
+            },
+            {
+                "time": 1668875337,
+                "description": "Plant Tomato seedling"
+            },
+            {
+                "time": 1668875337,
+                "description": "Plant Potato with green sprouts"
             }
         ],
         "observations": [
