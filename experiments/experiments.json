@@ -76,6 +76,12 @@
                 "time": 1672406687,
                 "description": "Removed from refrigeration"
             }
+        ],
+        "observations": [
+            {
+                "time": 1672625997,
+                "description": "6cm green and white sprouts visible"
+            }
         ]
     },
     {
@@ -92,6 +98,12 @@
             {
                 "time": 1672406687,
                 "description": "Removed from refrigeration"
+            }
+        ],
+        "observations": [
+            {
+                "time": 1672625997,
+                "description": "1cm white sprouts visible"
             }
         ]
     },
