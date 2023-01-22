@@ -9,6 +9,10 @@
             {
                 "time": 1664142938,
                 "description": "Refrigerate at -9\u2103"
+            },
+            {
+                "time": 1674426826,
+                "description": "Removed from refrigeration"
             }
         ],
         "observations": [
@@ -41,6 +45,16 @@
             {
                 "time": 1672406687,
                 "description": "Removed from refrigeration"
+            },
+            {
+                "time": 1674426826,
+                "description": "Discarded"
+            }
+        ],
+        "observations": [
+            {
+                "time": 1674426826,
+                "description": "Moldy and no visible sprouts"
             }
         ]
     },
@@ -85,6 +99,10 @@
             {
                 "time": 1672625997,
                 "description": "6cm green and white sprouts visible"
+            },
+            {
+                "time": 1674426826,
+                "description": "2.5cm Apple seedlings sprouts visible"
             }
         ]
     },
@@ -112,6 +130,10 @@
             {
                 "time": 1672625997,
                 "description": "1cm white sprouts visible"
+            },
+            {
+                "time": 1674426826,
+                "description": "3.5cm Apple seedlings sprouts visible"
             }
         ]
     },
@@ -129,6 +151,16 @@
             {
                 "time": 1672406687,
                 "description": "Removed from refrigeration"
+            },
+            {
+                "time": 1674426826,
+                "description": "Discarded"
+            }
+        ],
+        "observations": [
+            {
+                "time": 1674426826,
+                "description": "Moldy and no visible sprouts"
             }
         ]
     },
@@ -172,6 +204,16 @@
             {
                 "time": 1664230388,
                 "description": "Plant Antonovka + other Apple seeds in potting soil in a clay pot"
+            },
+            {
+                "time": 1674426826,
+                "description": "Refrigerate at -9\u2103"
+            }
+        ],
+        "observations": [
+            {
+                "time": 1674426826,
+                "description": "No visible sprouts above the soil surface"
             }
         ]
     },
@@ -181,6 +223,16 @@
             {
                 "time": 1664230388,
                 "description": "Plant Antonovka + other Apple seeds in potting soil in a clay pot"
+            },
+            {
+                "time": 1674426826,
+                "description": "Refrigerate at -9\u2103"
+            }
+        ],
+        "observations": [
+            {
+                "time": 1674426826,
+                "description": "No visible sprouts above the soil surface"
             }
         ]
     },
@@ -932,6 +984,10 @@
             {
                 "time": 1672798571,
                 "description": "Refrigerate in freezer at -9\u2103"
+            },
+            {
+                "time": 1674426826,
+                "description": "Removed from refrigeration"
             }
         ]
     },
@@ -1017,6 +1073,34 @@
             {
                 "time": 1672798571,
                 "description": "Refrigerate in fridge at 7\u2103"
+            }
+        ]
+    },
+    {
+        "experiment_id": 46,
+        "actions": [
+            {
+                "time": 1674426826,
+                "description": "Plant Antonovka Apple seedling in 12 inch pot filled with potting soil and compost",
+                "links": [
+                    {
+                        "experiment_id": 5
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "experiment_id": 47,
+        "actions": [
+            {
+                "time": 1674426826,
+                "description": "Plant Antonovka Apple seedling in 12 inch pot filled with potting soil and compost",
+                "links": [
+                    {
+                        "experiment_id": 5
+                    }
+                ]
             }
         ]
     }
