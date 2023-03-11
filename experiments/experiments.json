@@ -545,6 +545,9 @@
                 "links": [
                     {
                         "experiment_id": 46
+                    },
+                    {
+                        "experiment_id": 48
                     }
                 ]
             }
@@ -1160,6 +1163,15 @@
             {
                 "time": 1678547549,
                 "description": "Plant Cotton seeds"
+            },
+            {
+                "time": 1678547549,
+                "description": "Mulched with Morel Mushroom culture and woodchips",
+                "links": [
+                    {
+                        "experiment_id": 19
+                    }
+                ]
             }
         ]
     }
