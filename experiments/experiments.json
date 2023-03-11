@@ -93,6 +93,10 @@
             {
                 "time": 1672929673,
                 "description": "Plant in potting soil in a plastic pot"
+            },
+            {
+                "time": 1678544301,
+                "description": "Move to small clay pot"
             }
         ],
         "observations": [
@@ -208,6 +212,10 @@
             {
                 "time": 1674426826,
                 "description": "Refrigerate at -9\u2103"
+            },
+            {
+                "time": 1678544301,
+                "description": "Removed from refrigeration"
             }
         ],
         "observations": [
@@ -227,6 +235,10 @@
             {
                 "time": 1674426826,
                 "description": "Refrigerate at -9\u2103"
+            },
+            {
+                "time": 1678544301,
+                "description": "Removed from refrigeration"
             }
         ],
         "observations": [
@@ -524,6 +536,15 @@
                 "links": [
                     {
                         "experiment_id": 16
+                    }
+                ]
+            },
+            {
+                "time": 1678544301,
+                "description": "Merged",
+                "links": [
+                    {
+                        "experiment_id": 46
                     }
                 ]
             }
@@ -1005,6 +1026,10 @@
             {
                 "time": 1672798571,
                 "description": "Refrigerate in freezer at -9\u2103"
+            },
+            {
+                "time": 1678544301,
+                "description": "Removed from refrigeration"
             }
         ]
     },
@@ -1087,6 +1112,21 @@
                         "experiment_id": 5
                     }
                 ]
+            },
+            {
+                "time": 1678544301,
+                "description": "Mulched with Morel Mushroom culture and woodchips",
+                "links": [
+                    {
+                        "experiment_id": 19
+                    }
+                ]
+            }
+        ],
+        "observations": [
+            {
+                "time": 1678544301,
+                "description": "20cm tall with 11 leaves. The largest leaves are aroung 8 cm long."
             }
         ]
     },
@@ -1101,6 +1141,12 @@
                         "experiment_id": 5
                     }
                 ]
+            }
+        ],
+        "observations": [
+            {
+                "time": 1678544301,
+                "description": "25cm tall with 14 leaves. The largest leaves are aroung 13 cm long."
             }
         ]
     }
