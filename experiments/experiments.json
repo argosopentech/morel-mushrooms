@@ -1149,5 +1149,18 @@
                 "description": "25cm tall with 14 leaves. The largest leaves are aroung 13 cm long."
             }
         ]
+    },
+    {
+        "experiment_id": 48,
+        "actions": [
+            {
+                "time": 1678547549,
+                "description": "Fill large plastic pot with potting soil"
+            },
+            {
+                "time": 1678547549,
+                "description": "Plant Cotton seeds"
+            }
+        ],
     }
 ]
