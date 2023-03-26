@@ -97,6 +97,10 @@
             {
                 "time": 1678544301,
                 "description": "Move to small clay pot"
+            },
+            {
+                "time": 16785443011679844824,
+                "description": "Move to larger clay pot"
             }
         ],
         "observations": [
@@ -107,6 +111,10 @@
             {
                 "time": 1674426826,
                 "description": "2.5cm Apple seedlings sprouts visible"
+            },
+            {
+                "time": 1679844824,
+                "description": "Seedling shriveled and died"
             }
         ]
     },
@@ -730,6 +738,10 @@
             {
                 "time": 1666914595,
                 "description": "Refrigerate at 7\u2103"
+            },
+            {
+                "time": 1679844408,
+                "description": "Removed from refrigeration"
             }
         ]
     },
@@ -747,6 +759,10 @@
             {
                 "time": 1666914595,
                 "description": "Refrigerate at 7\u2103"
+            },
+            {
+                "time": 1679844408,
+                "description": "Removed from refrigeration"
             }
         ]
     },
@@ -764,6 +780,10 @@
             {
                 "time": 1666914595,
                 "description": "Refrigerate at 7\u2103"
+            },
+            {
+                "time": 1679844408,
+                "description": "Removed from refrigeration"
             }
         ]
     },
@@ -781,6 +801,10 @@
             {
                 "time": 1666914595,
                 "description": "Refrigerate at 7\u2103"
+            },
+            {
+                "time": 1679844408,
+                "description": "Removed from refrigeration"
             }
         ]
     },
@@ -798,6 +822,10 @@
             {
                 "time": 1666914595,
                 "description": "Refrigerate at 7\u2103"
+            },
+            {
+                "time": 1679844408,
+                "description": "Removed from refrigeration"
             }
         ]
     },
@@ -832,6 +860,10 @@
             {
                 "time": 1666914595,
                 "description": "Refrigerate at 7\u2103"
+            },
+            {
+                "time": 1679844408,
+                "description": "Removed from refrigeration"
             }
         ]
     },
@@ -942,6 +974,10 @@
             {
                 "time": 1672406893,
                 "description": "Cover and place outside in Chicago in December"
+            },
+            {
+                "time": 1679844408,
+                "description": "Burn Apple wood chips on top of soil then mix ashes into soil"
             }
         ],
         "observations": [
