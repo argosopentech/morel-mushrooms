@@ -1180,11 +1180,15 @@
                         "experiment_id": 5
                     }
                 ]
+            },
+            {
+                "time": 1684107610,
+                "description": "Set LEDs to 12 hours of light per day"
             }
         ],
         "observations": [
             {
-                "time": 1678544301,
+                "time": 1684107610,
                 "description": "25cm tall with 14 leaves. The largest leaves are aroung 13 cm long."
             }
         ]
@@ -1208,6 +1212,16 @@
                         "experiment_id": 19
                     }
                 ]
+            },
+            {
+                "time": 1684107610,
+                "description": "Add Apple woodchips and mix"
+            }
+        ],
+        "observations": [
+            {
+                "time": 1684107610,
+                "description": "No sprouts visible"
             }
         ]
     }
