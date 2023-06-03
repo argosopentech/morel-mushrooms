@@ -190,6 +190,16 @@
             {
                 "time": 1672406687,
                 "description": "Removed from refrigeration"
+            },
+            {
+                "time": 1685818035,
+                "description": "Discarded"
+            }
+        ],
+        "observations": [
+            {
+                "time": 1685818035,
+                "description": "Moldy and no visible sprouts"
             }
         ]
     },
@@ -602,6 +612,10 @@
             {
                 "time": 1666914595,
                 "description": "Refrigerate at 7\u2103"
+            },
+            {
+                "time": 1685819012,
+                "description": "Removed from refrigeration"
             }
         ]
     },
@@ -619,6 +633,16 @@
             {
                 "time": 1666914595,
                 "description": "Refrigerate at 7\u2103"
+            },
+            {
+                "time": 1685819012,
+                "description": "Removed from refrigeration"
+            }
+        ],
+        "observations": [
+            {
+                "time": 1685819012,
+                "description": "3x 3cm seedlings visible"
             }
         ]
     },
@@ -636,6 +660,10 @@
             {
                 "time": 1666914595,
                 "description": "Refrigerate at 7\u2103"
+            },
+            {
+                "time": 1685819012,
+                "description": "Removed from refrigeration"
             }
         ]
     },
@@ -653,6 +681,10 @@
             {
                 "time": 1666914595,
                 "description": "Refrigerate at 7\u2103"
+            },
+            {
+                "time": 1685819012,
+                "description": "Removed from refrigeration"
             }
         ]
     },
@@ -670,6 +702,10 @@
             {
                 "time": 1666914595,
                 "description": "Refrigerate at 7\u2103"
+            },
+            {
+                "time": 1685819012,
+                "description": "Removed from refrigeration"
             }
         ]
     },
@@ -687,6 +723,10 @@
             {
                 "time": 1666914595,
                 "description": "Refrigerate at 7\u2103"
+            },
+            {
+                "time": 1685819012,
+                "description": "Removed from refrigeration"
             }
         ]
     },
@@ -704,6 +744,10 @@
             {
                 "time": 1666914595,
                 "description": "Refrigerate at 7\u2103"
+            },
+            {
+                "time": 1685819012,
+                "description": "Removed from refrigeration"
             }
         ]
     },
@@ -721,6 +765,10 @@
             {
                 "time": 1666914595,
                 "description": "Refrigerate at 7\u2103"
+            },
+            {
+                "time": 1685819012,
+                "description": "Removed from refrigeration"
             }
         ]
     },
@@ -743,6 +791,12 @@
                 "time": 1679844408,
                 "description": "Removed from refrigeration"
             }
+        ],
+        "observations": [
+            {
+                "time": 1685818864,
+                "description": "Several small sprouts visible"
+            }
         ]
     },
     {
@@ -763,6 +817,16 @@
             {
                 "time": 1679844408,
                 "description": "Removed from refrigeration"
+            },
+            {
+                "time": 1685818035,
+                "description": "Discarded"
+            }
+        ],
+        "observations": [
+            {
+                "time": 1685818035,
+                "description": "No sprouts visible"
             }
         ]
     },
@@ -826,6 +890,16 @@
             {
                 "time": 1679844408,
                 "description": "Removed from refrigeration"
+            },
+            {
+                "time": 1685818035,
+                "description": "Discarded"
+            }
+        ],
+        "observations": [
+            {
+                "time": 1685818035,
+                "description": "No germination or visible mycelium"
             }
         ]
     },
@@ -881,6 +955,10 @@
             {
                 "time": 1666914595,
                 "description": "Refrigerate at 7\u2103"
+            },
+            {
+                "time": 1685819012,
+                "description": "Removed from refrigeration"
             }
         ]
     },
@@ -898,6 +976,10 @@
             {
                 "time": 1666914595,
                 "description": "Refrigerate at 7\u2103"
+            },
+            {
+                "time": 1685819012,
+                "description": "Removed from refrigeration"
             }
         ]
     },
@@ -915,6 +997,10 @@
             {
                 "time": 1666914595,
                 "description": "Refrigerate at 7\u2103"
+            },
+            {
+                "time": 1685819012,
+                "description": "Removed from refrigeration"
             }
         ]
     },
@@ -1001,6 +1087,10 @@
             {
                 "time": 1668924000,
                 "description": "Refrigerate at 7\u2103"
+            },
+            {
+                "time": 1685819012,
+                "description": "Removed from refrigeration"
             }
         ]
     },
@@ -1014,6 +1104,10 @@
             {
                 "time": 1668924000,
                 "description": "Refrigerate at 7\u2103"
+            },
+            {
+                "time": 1685819012,
+                "description": "Removed from refrigeration"
             }
         ]
     },
@@ -1027,6 +1121,10 @@
             {
                 "time": 1668924000,
                 "description": "Refrigerate at 7\u2103"
+            },
+            {
+                "time": 1685819012,
+                "description": "Removed from refrigeration"
             }
         ]
     },
@@ -1048,6 +1146,16 @@
             {
                 "time": 1674426826,
                 "description": "Removed from refrigeration"
+            },
+            {
+                "time": 1685818035,
+                "description": "Discarded"
+            }
+        ],
+        "observations": [
+            {
+                "time": 1685818035,
+                "description": "No sprouts visible"
             }
         ]
     },
@@ -1069,6 +1177,10 @@
             {
                 "time": 1678544301,
                 "description": "Removed from refrigeration"
+            },
+            {
+                "time": 1685818035,
+                "description": "Discarded"
             }
         ]
     },
@@ -1086,6 +1198,14 @@
             {
                 "time": 1672798571,
                 "description": "Refrigerate in freezer at -9\u2103"
+            },
+            {
+                "time": 1685818035,
+                "description": "Moldy, no sprouts visible"
+            },
+            {
+                "time": 1685819012,
+                "description": "Removed from refrigeration"
             }
         ]
     },
@@ -1103,40 +1223,10 @@
             {
                 "time": 1672798571,
                 "description": "Refrigerate in fridge at 7\u2103"
-            }
-        ]
-    },
-    {
-        "experiment_id": 45,
-        "actions": [
-            {
-                "time": 1672712171,
-                "description": "Soak Anonovka Apple seeds in water to soak for 24 hours"
             },
             {
-                "time": 1672798571,
-                "description": "Plant Anonovka Apple seeds in a damp paper towel"
-            },
-            {
-                "time": 1672798571,
-                "description": "Refrigerate in fridge at 7\u2103"
-            }
-        ]
-    },
-    {
-        "experiment_id": 45,
-        "actions": [
-            {
-                "time": 1672712171,
-                "description": "Soak Anonovka Apple seeds in water to soak for 24 hours"
-            },
-            {
-                "time": 1672798571,
-                "description": "Plant Anonovka Apple seeds in a damp paper towel"
-            },
-            {
-                "time": 1672798571,
-                "description": "Refrigerate in fridge at 7\u2103"
+                "time": 1685819012,
+                "description": "Removed from refrigeration"
             }
         ]
     },
@@ -1166,6 +1256,10 @@
             {
                 "time": 1678544301,
                 "description": "20cm tall with 11 leaves. The largest leaves are aroung 8 cm long."
+            },
+            {
+                "time": 1685815456,
+                "description": "21cm tall with 8 leaves. Some leaves have turned brown from lack of watering."
             }
         ]
     },
