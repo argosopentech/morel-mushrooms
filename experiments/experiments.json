@@ -1250,6 +1250,14 @@
                         "experiment_id": 19
                     }
                 ]
+            },
+            {
+                "time": 1685906761,
+                "description": "Light small woodchip fire around base of tree to simulate forest fire. The top of the tree has totally burned off."
+            },
+            {
+                "time": 1685906761,
+                "description": "Place outside in June in Chicago"
             }
         ],
         "observations": [
@@ -1278,12 +1286,20 @@
             {
                 "time": 1684107610,
                 "description": "Set LEDs to 12 hours of light per day"
+            },
+            {
+                "time": 1685906761,
+                "description": "Removed from LEDs and placed by a window in Chicago"
             }
         ],
         "observations": [
             {
                 "time": 1684107610,
                 "description": "25cm tall with 14 leaves. The largest leaves are aroung 13 cm long."
+            },
+            {
+                "time": 1685906761,
+                "description": "76cm tall"
             }
         ]
     },
