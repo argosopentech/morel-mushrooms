@@ -1349,6 +1349,10 @@
             {
                 "time": 1685907744,
                 "description": "Plant in damp paper towels"
+            },
+            {
+                "time": 1686347385,
+                "description": "Refrigerate at -9\u2103"
             }
         ]
     },
@@ -1366,6 +1370,10 @@
             {
                 "time": 1685907744,
                 "description": "Plant in damp paper towels"
+            },
+            {
+                "time": 1686347385,
+                "description": "Refrigerate at 7\u2103"
             }
         ]
     },
@@ -1379,6 +1387,10 @@
             {
                 "time": 1685907744,
                 "description": "Plant in damp paper towels"
+            },
+            {
+                "time": 1686347385,
+                "description": "Refrigerate at 7\u2103"
             }
         ]
     },
@@ -1392,6 +1404,10 @@
             {
                 "time": 1685907744,
                 "description": "Plant in damp paper towels"
+            },
+            {
+                "time": 1686347385,
+                "description": "Refrigerate at -9\u2103"
             }
         ]
     }
