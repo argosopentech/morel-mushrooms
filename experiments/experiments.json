@@ -1357,6 +1357,10 @@
             {
                 "time": 1686347385,
                 "description": "Refrigerate at -9\u2103"
+            },
+            {
+                "time": 1691348353,
+                "description": "Removed from refrigeration and place by a window in Chicago"
             }
         ]
     },
@@ -1378,6 +1382,10 @@
             {
                 "time": 1686347385,
                 "description": "Refrigerate at 7\u2103"
+            },
+            {
+                "time": 1691348353,
+                "description": "Removed from refrigeration and place by a window in Chicago"
             }
         ]
     },
@@ -1395,6 +1403,10 @@
             {
                 "time": 1686347385,
                 "description": "Refrigerate at 7\u2103"
+            },
+            {
+                "time": 1691348353,
+                "description": "Removed from refrigeration and place by a window in Chicago"
             }
         ]
     },
@@ -1412,6 +1424,10 @@
             {
                 "time": 1686347385,
                 "description": "Refrigerate at -9\u2103"
+            },
+            {
+                "time": 1691348353,
+                "description": "Removed from refrigeration and place by a window in Chicago"
             }
         ]
     }
