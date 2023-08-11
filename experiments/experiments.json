@@ -1430,5 +1430,39 @@
                 "description": "Removed from refrigeration and place by a window in Chicago"
             }
         ]
+    },
+    {
+        "experiment_id": 54,
+        "actions": [
+            {
+                "time": 1691795373,
+                "description": "Plant ~100 Antonovka Apple seeds from Reimer Seeds (https://www.reimerseeds.com/antonovka-apple-tree.aspx) into a plastic bag"
+            },
+            {
+                "time": 1691795373,
+                "description": "Plant in damp paper towels"
+            },
+            {
+                "time": 1691795373,
+                "description": "Refrigerate at 7\u2103"
+            }
+        ]
+    },
+    {
+        "experiment_id": 55,
+        "actions": [
+            {
+                "time": 1691795373,
+                "description": "Plant 29 Antonovka Apple seeds from My Seeds. Co (https://www.myseeds.co/) into a plastic bag"
+            },
+            {
+                "time": 1691795373,
+                "description": "Plant in damp paper towels"
+            },
+            {
+                "time": 1691795373,
+                "description": "Refrigerate at 7\u2103"
+            }
+        ]
     }
 ]
