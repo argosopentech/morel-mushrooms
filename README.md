@@ -14,5 +14,5 @@ As part of these experiments I germinated a large number of Antonovka Apple seed
 1. Purchase Antonovka Apple seeds from  My Seeds. Co (https://www.myseeds.co/)
 2. Soak the seeds overnight
 3. Place the seeds on a damp paper towel in a plastic bag
-4. Refrigerate at 7℃ for 1-2 months
+4. Refrigerate at approximately 7℃ (fridge not freezer) for 1-2 months
 5. Plant in potting soil
